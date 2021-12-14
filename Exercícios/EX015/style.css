@@ -1,0 +1,20 @@
+@charset  "UTF-8" ;
+
+corpo {
+    cor de fundo : amarelo claro dourado;
+    família da fonte : Arial , Helvetica , sans-serif;
+    tamanho da fonte :20 px ;
+}
+
+h1 {
+    cor : marrom;
+    cor de fundo : goldenrod;
+}
+
+h2 {
+    cor : vermelho escuro;
+}
+
+p {
+    alinhamento de texto : justificar;
+}
